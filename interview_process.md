@@ -26,11 +26,11 @@ How would you represent a layout in this scenario?
 
 # Requirements
 
-# Tools
+## Tools
 
 This execise task should be implemented in python 3 and should work on 64-bit Linux machines.
 
-# Timing
+## Timing
 
 You will have one week to work on this excercie, starting immediately after your Zoom interview with us.
 
